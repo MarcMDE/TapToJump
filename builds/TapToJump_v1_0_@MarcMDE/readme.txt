@@ -1,4 +1,4 @@
-Tap To Jump v1.0 - Ready To Play
+Tap To Jump v1.0
 
 Tap To Jump is a small runner prototype developed by Marc Montagut (MarcMDE)
 using C and raylib.
