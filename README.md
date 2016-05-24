@@ -1,6 +1,7 @@
 # TapToJump
 Simple and fun runner prototype, developed using C and raylib.
 
+Play it on google chrome! http://marcmde.github.io/TapToJump_v1_0_Browser/
 The game build is ready to play, just download the build/TapToJump_v1_0_@MarcMDE and open the .exe!!!
 If you want, you can download it form: https://mega.nz/#!qRFwDLCK!ilQvnBqDCmkFDUKk6bUzgQIeMB8fiXaYJNsQXfFh4bg
 
